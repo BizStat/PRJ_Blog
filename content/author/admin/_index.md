@@ -1,42 +1,41 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include robust statistics, time series analysis and algorithms for arificaial intelligebce like deep learning.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Applied Statistics
+    institution: Korea University
+    year: 2004
+  - course: M.S. in Applied Statistics
+    institution: Korea University
+    year: 1999
+  - course: BA in Economics
+    institution: Korea University
+    year: 1997
+email: "dhl@kgu.ac.kr"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Deep Learning for Artificial Intelligence
+- Social Network Intelligence
+- Multivariate Count Distribution based Models
+name: Dong-Hee Lee
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Kyonggi University
+  url: "https://www.kyonggi.ac.kr"
+role: Professor of Business Administration
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ld0351
 superuser: true
 user_groups:
 - Researchers
