@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Dong-Hee Lee is a professor of Busness Administration at the Jyonggi University since 2008. His research interests include time series analysis, deep learning for artificial intelegence and robust statistical inerence.
+Dong-Hee Lee is a professor of Business Administration at the Jyonggi University since 2008. His research interests include time series analysis, deep learning for artificial intelegence and robust statistical inerence.
